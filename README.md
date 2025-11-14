@@ -1,4 +1,4 @@
-# Hi, I'm Ajeesh  
+# Hi, I'm Ajeesh 👋
 
 I build digital products and AI powered experiences that people enjoy using.  
 I work on ecommerce at scale and I am building SmritiKosha in my spare time.
