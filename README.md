@@ -7,7 +7,7 @@ I work on ecommerce at scale and I am building SmritiKosha in my spare time.
 
 ## What I work on  
 
-🌟 Products that solve real user problems (or at least my problems :D )
+🌟 Products that solve real user problems (or at least my problems :grinning: )
 ⚡ High performance ecommerce journeys and faster checkout flows  
 🧠 AI powered memories and storytelling with SmritiKosha  
 📈 Product strategy, opportunity trees, outcome driven roadmaps  
